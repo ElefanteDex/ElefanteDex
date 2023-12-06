@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElefanteDex
 - 👀 I’m interested in all things AI
-- 🌱 I’m currently learning how to create chatbot solutions
+- 🌱 I’m currently learning how to create AI solutions
 
 <!---
 ElefanteDex/ElefanteDex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
